@@ -1,11 +1,15 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20yoon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+  <br>
   
   ![yoonth95's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonth95&include_all_commits=true&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonth95&hide=jupyter%20notebook&layout=compact)
 
+  <br>
   <hr>
+  <br>
   
   [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonth95&count_bg=%237A7A7A&title_bg=%2379C83D&icon_color=%23FF0000&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
   ![followers](https://img.shields.io/github/followers/yoonth95?style=social)
