@@ -4,7 +4,7 @@
 
   <br>
   
-  ![yoonth95's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonth95&include_all_commits=true&show_icons=true&theme=radical)
+  ![yoonth95's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonth95&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonth95&hide=jupyter%20notebook&layout=compact)
 
   <br>
