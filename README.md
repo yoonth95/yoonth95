@@ -7,6 +7,8 @@
   ![yoonth95's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonth95&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonth95&hide=jupyter%20notebook&layout=compact)
 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoonth95&slug=SVG-파일-React-Component로-가져오기-Vite-TypeScript)](https://github.com/yoonth95/velog-readme-stats)
+
   <br>
   <hr>
   <br>
